@@ -3,5 +3,5 @@ function feature() {
 }
 
 function coolFeature() {
-  console.log("Wow");
+  console.log("Wow!");
 }
