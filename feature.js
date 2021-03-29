@@ -3,5 +3,5 @@ function feature() {
 }
 
 function feature2() {
-  console.log("Wow");
+  console.log("Wow!");
 }
