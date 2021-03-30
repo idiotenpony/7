@@ -9,3 +9,7 @@ function three() {
 function gitHub() {
   console.log("ich bin online");
 }
+
+function newFeature() {
+  console.log("Feature");
+}
