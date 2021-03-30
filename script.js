@@ -5,3 +5,7 @@ function one() {
 function three() {
   console.log("Three!");
 }
+
+function gitHub() {
+  console.log("ich bin online");
+}
